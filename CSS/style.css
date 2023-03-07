@@ -1,0 +1,83 @@
+/** BEGIN OF NAVBAR ********************************************************************/
+#getec {
+    color: blue;
+    font-size: 28px;
+    font-style: italic;
+}
+
+#dea {
+    color: yellow;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.nav-link {
+    color: orange;
+    font-size: 18px;
+    text-align: right;
+}
+
+.navbar .navbar-nav a:first-child{
+    color: #1fff17;
+}
+/** END OF NAVBAR ********************************************************************/
+
+/** BEGIN OF ASPIDE ********************************************************************/
+.card-img {
+  
+    width: 1124px; 
+    height:748px;
+}    
+.card-img {
+    filter:brightness(80%)
+}
+
+.card-title {
+   color:blueviolet;
+   font-size: 38px;
+   text-align: right;
+}
+
+.card-text {
+   color: whitesmoke;
+   font-size: 20px;
+   text-align: right;
+}
+
+.card-enlace {
+    color: yellowgreen;
+    font-size: 18px;
+    text-align: right;
+ }
+
+/** END OF ASPIDE ********************************************************************/
+
+/** BEGIN OF FOOTER *****************************************************************************/
+footer{
+    background-color: rgb(10, 10, 134);
+    color:white;
+    height:70px;
+}
+
+.footer .container-footer {
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+.footer .footer-item {
+    color: white;
+}
+
+.footer .container-footer a:hover {
+    color: limegreen;
+}
+/** END OF FOOTER   *****************************************************************************/
+
